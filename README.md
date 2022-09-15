@@ -1,29 +1,20 @@
-### Hi there 👋
-
-<!--
-**NahnahAJ/NahnahAJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Nahnah Ahjuwah:smiley:</h1>
 <h2 align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=FullStack%20Web%20Developer;%20to%20Microverse&font=Fira%20Code&center=true&width=440&height=45&color=258F76&vCenter=true&size=30&pause=1000"></h2>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=FullStack%20Web%20Developer;Enrolled%20at%20Microverse&font=Fira%20Code&center=true&width=440&height=45&color=258F76&vCenter=true&size=30&pause=1000"></h2>
 
-- 🌱 Learning **Bootsrap | Sass | Javascript**
+- 🌱 Learning: **Bootsrap | Sass | Javascript**
 
-- 📫 How to reach me **nahnahahjuwah@gmail.com**
+- 📫 How to reach me: **nahnahahjuwah@gmail.com**
+
+- 😄 Pronouns: **She/Her**
+
+- ⚡ Fun fact: **I Love to Swim**
+
+- 💬 Ask me about **Anything at all**
+
+- 👯 I’m looking to collaborate on **projects**
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NahnahAJ&label=Profile%20views&color=brightgreen&style=flat-square" alt="nahnahaj" /> <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="900" height="320" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NahnahAJ&show_icons=true&theme=gotham" alt="nahnahaj" />

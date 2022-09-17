@@ -16,7 +16,7 @@
 - 👯 I’m looking to collaborate on **projects**
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NahnahAJ&label=Profile%20views&color=brightgreen&style=flat-square" alt="nahnahaj" /> <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="900" height="320" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NahnahAJ&label=Profile%20views&color=brightgreen&style=flat-square" alt="nahnahaj" /></p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NahnahAJ&show_icons=true&theme=gotham" alt="nahnahaj" />
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NahnahAJ" alt="nahnahaj" /></a> </p>
@@ -30,7 +30,6 @@
 <p align="center">
     <img alt="NahnahAJ's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NahnahAJ&theme=gotham&hide_border=true"/>
 </p>
-
 <h2 align="left">:handshake: Connect with me:</h2>
 <p align="center">
 <br>	
@@ -39,4 +38,4 @@
 
 </p>
 
-<img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=NahnahAJ&bg_color=0C1014&color=258F76&line=90C5C2&point=FFFFFF&hide_border=true" />
+

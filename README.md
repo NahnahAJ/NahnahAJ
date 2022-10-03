@@ -5,7 +5,7 @@
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=NahnahAJ&label=Profile%20views&color=brightgreen&style=flat-square" alt="nahnahaj" /></p>
   
-- 🌱 Learning: **Bootsrap | Sass | Javascript**
+- 🌱 Learning: **Bootsrap | Sass | JavaScript**
 
 - 📫 How to reach me: **nahnahahjuwah@gmail.com**
 
@@ -15,7 +15,8 @@
 
 - 💬 Ask me about **Anything at all**
 
-- 👯 I’m looking to collaborate on **projects**
+- 👯 I’m looking to collaborate on **Projects**
+
 
 <h2></h2>
 <p align="center"><img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/multi-screen.gif" /></p>

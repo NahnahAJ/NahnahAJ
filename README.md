@@ -1,11 +1,11 @@
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Nahnah Ahjuwah:smiley:</h1>
+<h1 align="center">Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Nahnah Ahjuwah:smiley:</h1>
 <h2 align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20Developer;Enrolled%20at%20Microverse&font=Fira%20Code&center=true&width=440&height=45&color=258F76&vCenter=true&size=30&pause=1000"></h2>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20Developer;Enrolled%20at%20Microverse&font=Fira%20Code&center=true&width=440&height=45&color=9867C5&vCenter=true&size=30&pause=1000"></h2>
   
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=NahnahAJ&label=Profile%20views&color=brightgreen&style=flat-square" alt="nahnahaj" /></p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=NahnahAJ&label=Profile%20views&color=4E2A84&style=flat-cube" alt="nahnahaj" /></p>
   
-- 🌱 Learning: **Bootsrap | Sass | JavaScript**
+  - 🌱 Learning: **Bootsrap | Sass | JavaScript**
 
 - 📫 How to reach me: **nahnahahjuwah@gmail.com**
 
@@ -16,14 +16,14 @@
 - 💬 Ask me about **Anything at all**
 
 - 👯 I’m looking to collaborate on **Projects**
-
+ 
 
 <h2></h2>
 <p align="center"><img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/multi-screen.gif" /></p>
 <br>    
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NahnahAJ" alt="nahnahaj" /></a> </p>
 <br>    
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NahnahAJ&show_icons=true&theme=gotham" alt="nahnahaj" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NahnahAJ&show_icons=true&theme=tokyonight" alt="nahnahaj" />
 <br>
 <br>
 
@@ -35,26 +35,27 @@
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-    <img alt="NahnahAJ's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NahnahAJ&theme=gotham&hide_border=true"/>
+    <img alt="NahnahAJ's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NahnahAJ&theme=tokyonight&hide_border=true"/>
 </p>
 <h2 align="left">:handshake: Connect with me:</h2>
 
 
 <p align="center">
   <a href="https://twitter.com/NahnahAhjuwah" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=301934" alt="Twitter"/>
   </a>
   <a href="https://www.linkedin.com/in/felicia-awuah-0674a7152/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/nahnah_ahjuwah" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=301934" alt="Instagram"/>
   </a>
   <a href="https://medium.com/" target="_blank">
     <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=071A2C" alt="Medium"/>
   </a>
   <a href="https://www.facebook.com/" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=301934" alt="Facebook"/>
   </a>
 </p>
 
+<p align="center"> © 2022 Nahnah Ahjuwah. All rights reserved.</p>

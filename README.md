@@ -6,12 +6,14 @@
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=NahnahAJ&label=Profile%20views&color=4E2A84&style=flat-cube" alt="nahnahaj" /></p>
   
   - 🌱 Learning: **Bootsrap | Sass | JavaScript**
+  
+- :innocent: Student Mentor at  [Microverse](https://www.microverse.org/)
 
-- 📫 How to reach me: **nahnahahjuwah@gmail.com**
+- 📫 How to reach me: [Send an Email](nahnahahjuwah@gmail.com)
 
 - 😄 Pronouns: **She/Her**
 
-- ⚡ Fun fact: **I Love to Swim**
+- ⚡ Fun fact: **I Love to Swim** and I am Trying to Learn **Chess**
 
 - 💬 Ask me about **Anything at all**
 
@@ -34,7 +36,7 @@
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
       alt="JavaScript"/>
   </a>
-   <a href="https://www.javascript.com/" target="_blank">
+   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
       alt="Phyton"/>
   </a>

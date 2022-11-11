@@ -57,8 +57,6 @@
       alt="Ruby"/>
   </a>
 </p>
-<br>
-<br>
 
 
 <h2 align="left">:zap: Frameworks, Platforms and Libraries: </h2>
@@ -87,9 +85,6 @@
   </a>
 </p>
 <p>
-<br>
-<br>
-
 
  <h2 align="left">:checkered_flag: Version Control & CI/CD: </h2>
 <p align="center">
@@ -105,8 +100,6 @@
   </a>
 </p>
 <p>
-<br>
-<br>
 
 
  <h2 align="left">:cyclone: Preferred IDEs & Tools:</h2>
@@ -124,8 +117,6 @@
     <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" alt="Replit"/>
   </a> 
 </p>
-<br>
-<br>
 
 
 

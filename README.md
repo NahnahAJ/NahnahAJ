@@ -139,7 +139,7 @@
   <a href="https://instagram.com/nahnah_ahjuwah" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=301934" alt="Instagram"/>
   </a>
-  <a href="https://medium.com/" target="_blank">
+  <a href="https://medium.com/@nahnahahjuwah" target="_blank">
     <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=071A2C" alt="Medium"/>
   </a>
   <a href="https://www.facebook.com/" target="_blank">

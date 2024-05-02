@@ -5,7 +5,7 @@
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=NahnahAJ&label=Profile%20views&color=4E2A84&style=flat-cube" alt="nahnahaj" /></p>
   
-  - 🌱 Learning: **Firebase | Typescript | PHP**
+  - 🌱 Learning: **Firebase | Django | Flutter**
   
 - :innocent: Student Mentor and Code Reviewer 😉 at  [Microverse](https://www.microverse.org/)
 
@@ -147,4 +147,4 @@
   </a>
 </p>
 
-<p align="center"> © 2022 Nahnah Ahjuwah. All rights reserved.</p>
+<p align="center"> © 2024 Nahnah Ahjuwah. All rights reserved.</p>

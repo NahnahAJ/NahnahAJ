@@ -7,7 +7,7 @@
   
   - 🌱 Learning: **Firebase | Django | Flutter**
   
-- :innocent: Microverse Graduate|Former Code Reviewer and Mentor 😉 at  [Microverse](https://www.microverse.org/)
+- :innocent: Microverse Graduate | Former Code Reviewer and Mentor 😉 at  [Microverse](https://www.microverse.org/)
 
 - 📫 How to reach me: [Send an Email](nahnahahjuwah@gmail.com)
 

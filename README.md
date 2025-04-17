@@ -5,7 +5,7 @@
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=NahnahAJ&label=Profile%20views&color=4E2A84&style=flat-cube" alt="nahnahaj" /></p>
   
-  - 🌱 Learning: **AI |  | Flutter**
+  - 🌱 Learning: **AI | Django | Flutter**
   
 - :innocent: Microverse Graduate | Former Code Reviewer and Mentor 😎 at [Microverse](https://www.microverse.org/)
 

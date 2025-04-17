@@ -5,9 +5,9 @@
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=NahnahAJ&label=Profile%20views&color=4E2A84&style=flat-cube" alt="nahnahaj" /></p>
   
-  - 🌱 Learning: **Firebase | Django | Flutter**
+  - 🌱 Learning: **AI |  | Flutter**
   
-- :innocent: Microverse Graduate | Former Code Reviewer and Mentor 😉 at  [Microverse](https://www.microverse.org/)
+- :innocent: Microverse Graduate | Former Code Reviewer and Mentor 😎 at [Microverse](https://www.microverse.org/)
 
 - 📫 How to reach me: [Send an Email](nahnahahjuwah@gmail.com)
 

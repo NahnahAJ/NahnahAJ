@@ -122,10 +122,9 @@
 
 ## 🔥 Streak stats
 
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-    <img alt="NahnahAJ's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NahnahAJ&theme=tokyonight&hide_border=true"/>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=NahnahAJ&theme=dark)](https://git.io/streak-stats)
+
+
 <h2 align="left">:handshake: Connect with me:</h2>
 
 
@@ -147,4 +146,4 @@
   </a>
 </p>
 
-<p align="center"> © 2024 Nahnah Ahjuwah. All rights reserved.</p>
+<p align="center"> © 2025 Nahnah Ahjuwah. All rights reserved.</p>
